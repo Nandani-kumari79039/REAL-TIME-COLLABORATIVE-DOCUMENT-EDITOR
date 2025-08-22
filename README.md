@@ -81,3 +81,5 @@ Where This Task is Applicable
 Collaborative writing platforms (Google Docs alternatives).
 
 OUTPUT:
+
+<img width="1317" height="369" alt="Image" src="https://github.com/user-attachments/assets/c38ca713-ff24-4f7c-b2ac-5f11aea05fd4" />
